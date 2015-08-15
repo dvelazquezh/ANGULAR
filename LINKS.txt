@@ -1,0 +1,28 @@
+administrador de paquetes node
+https://www.npmjs.com/
+dvelazquezh
+Daniel2008
+
+
+GIT
+https://git-scm.com/download/win
+dvelazquezh
+Daniel2008
+
+GIT Init
+Git Status
+
+commit
+Git Commit -a -m "Practica 4 Lista"
+
+NODE Js
+https://nodejs.org/
+
+bootstrap
+http://expressjs.com/starter/installing.html
+
+
+
+MVC
+
+MVR
